@@ -1,0 +1,21 @@
+Project Name,Upstream,Entropy (bits),Normalized Entropy,Files Used
+Base Chain,ethereum-optimism/op-geth,0.00,0.00,0.00
+Boba,ethereum-optimism/op-geth,1.95,0.59,10.00
+Derive,ethereum-optimism/op-geth,2.26,0.59,14.00
+Epic Chain,ethereum-optimism/op-geth,0.00,0.00,0.00
+Facet Bluebird,ethereum-optimism/op-geth,3.85,0.71,44.00
+HashKey Chain,ethereum-optimism/op-geth,1.96,0.84,5.00
+Hemi,ethereum-optimism/op-geth,7.92,0.79,1017.00
+Ink,ethereum-optimism/op-geth,0.00,0.00,1.00
+LightLink*,ethereum-optimism/op-geth,0.00,0.00,0.00
+Mantle,ethereum-optimism/op-geth,4.50,0.56,258.00
+Metal,ethereum-optimism/op-geth,0.00,0.00,0.00
+OP Mainnet,ethereum-optimism/op-geth,0.00,0.00,0.00
+Plume Network,OffchainLabs/go-ethereum,0.00,0.00,1.00
+Polygon PoS,ethereum/go-ethereum,0.00,0.00,0.00
+Polynomial,ethereum-optimism/op-geth,0.00,0.00,0.00
+Redstone,ethereum-optimism/op-geth,0.00,0.00,0.00
+Settlus,ethereum/go-ethereum,9.11,0.94,833.00
+Shibarium,0xPolygon/bor,0.00,0.00,0.00
+Taiko Alethia,ethereum/go-ethereum,8.51,0.83,1205.00
+X Layer,ethereum-optimism/op-geth,5.68,0.80,135.00

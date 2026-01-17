@@ -1,0 +1,24 @@
+Project Name,Repo,Parent Repo,Base Commit,Commits Ahead,Commits Behind,Lines Added,Lines Deleted,Churn,Normalized Churn,Original Branch,Parent Branch,Base LOC,Normalized Divisor
+Arbitrum Nova,OffchainLabs/go-ethereum,ethereum/go-ethereum,07129d21c0fa0aa8b6f7426344cf9ec2f31bc427,2828,96,28224,1876,30100,346.9,master,master,867730,867730
+Arbitrum One,OffchainLabs/go-ethereum,ethereum/go-ethereum,07129d21c0fa0aa8b6f7426344cf9ec2f31bc427,2828,96,28224,1876,30100,346.9,master,master,867730,867730
+Base Chain,base/op-geth,ethereum-optimism/op-geth,78436b6ae2a45a9c8449a9b0c93b062a37bd20da,0,2187,0,0,0,0.0,optimism,optimism,738164,738164
+Boba,bobanetwork/op-geth,ethereum-optimism/op-geth,904a088c5cc1eeec21a1ffa47327dc20a809e642,5,125,212,64,276,3.0,optimism,optimism,911000,911000
+Celo,celo-org/op-geth,ethereum-optimism/op-geth,c6e05723600e111af769abffd5299e3c72061016,102,516,16449,1220,17669,203.6,celo-rebase-14,optimism,867704,867704
+Derive,derivexyz/op-geth,ethereum-optimism/op-geth,c283254e5447f127e3b9350860985911dab9cd2f,7,1381,799,1,800,10.7,optimism,optimism,745289,745289
+Epic Chain,epiconchain/op-geth,ethereum-optimism/op-geth,0a8e8d48b44cf87164a8548ad592548f034f3a38,0,2159,0,0,0,0.0,optimism,optimism,738277,738277
+Facet Bluebird,0xFacet/facet-geth,ethereum-optimism/op-geth,641e996a2dcf1f81bac9416cb6124f86a69f1de7,133,1387,1282,559,1841,24.7,facet,optimism,744027,744027
+HashKey Chain,HashKeyChain/verse-geth,ethereum-optimism/op-geth,3884f258949215fd1bc1f5fddd1b51dc126d4467,4,513,144,2,146,1.7,develop,optimism,868166,868166
+Hemi,hemilabs/op-geth,ethereum-optimism/op-geth,e666543dc5500428ee7c940e54263fe4968c5efd,100,737,14401,1995,16396,206.3,hemi,optimism,794704,794704
+Ink,inkonchain/op-geth,ethereum-optimism/op-geth,fbc739c3e40aba2f59181912470fa0b1bd7a2805,3,750,20,0,20,0.3,optimism,optimism,793273,793273
+LightLink*,lightlink-network/ll-geth,ethereum-optimism/op-geth,37be9e05e9d6843619c9bbaabc96abc0ce653f55,0,741,0,0,0,0.0,lightlink,optimism,794385,794385
+Mantle,mantlenetworkio/op-geth,ethereum-optimism/op-geth,41714b4975845b1d6e3277b7b92e80c66a584d2b,106,850,34929,12270,47199,551.1,main,optimism,856482,856482
+Metal,MetalPay/op-geth,ethereum-optimism/op-geth,2306a368d2e30cdc10570b202af5bbf6143e4069,0,1882,0,0,0,0.0,optimism,optimism,747755,747755
+Plume Network,plumenetwork/plume-go-ethereum,OffchainLabs/go-ethereum,575062fad7ff4db9d7c235f49472f658be29e2fe,2,2906,18,3,21,0.3,v3.1.2,master,725380,725380
+Polygon PoS,maticnetwork/go-ethereum,ethereum/go-ethereum,356bbe343a30789e77bb38f25983c8f2f2bfbb47,0,3526,0,0,0,0.0,master,master,696333,696333
+Polynomial,Polynomial-Protocol/op-geth,ethereum-optimism/op-geth,647c346e2bef36219cc7b47d76b1cb87e7ca29e4,0,1228,0,0,0,0.0,optimism,optimism,751338,751338
+Redstone,latticexyz/op-geth,ethereum-optimism/op-geth,c3a989eb882d150a936df27bcfa791838b474d55,0,744,0,0,0,0.0,optimism,optimism,793279,793279
+Scroll,scroll-tech/go-ethereum,ethereum/go-ethereum,7a0c19f813e285516f4b525305fd73b625d2dec8,614,3586,8813,1962,10775,155.4,develop,master,693171,693171
+Settlus,settlus/go-ethereum,ethereum/go-ethereum,767b00b0b514771a663f3362dd0310fc28d40c25,1,1608,1472,1471,2943,41.0,master,master,717463,717463
+Shibarium,shibaone/bor,0xPolygon/bor,0e508e4b7ff019399083a6e54a27baf379731061,0,665,0,0,0,0.0,master,master,896125,896125
+Taiko Alethia,taikoxyz/taiko-geth,ethereum/go-ethereum,9038ba69428a6ecada1f2acace6981854482748b,195,1720,18832,5187,24019,338.0,taiko,master,710557,710557
+X Layer,okx/op-geth,ethereum-optimism/op-geth,d092a020749f4d788501f05ed1be30320ab102b9,132,2,17577,157,17734,193.5,dev,optimism,916553,916553
